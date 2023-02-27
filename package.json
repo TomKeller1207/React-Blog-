@@ -41,7 +41,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^13.0.5",
     "@rollup/plugin-typescript": "^8.2.1",
-    "@types/react": "^17.0.3",
+    "@types/react": "^18.0.28",
     "@types/react-dom": "^17.0.3",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
